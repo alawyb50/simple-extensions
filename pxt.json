@@ -1,6 +1,6 @@
 {
     "name": "get the coin and go to the portrale",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "device": "*",

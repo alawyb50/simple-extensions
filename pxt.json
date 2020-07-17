@@ -1,18 +1,23 @@
 {
-    "name": "Simple Extensions",
+    "name": "get the coin and go to the portrale",
+    "version": "0.0.1",
+    "description": "",
     "dependencies": {
         "device": "*",
         "corgio": "*"
     },
-    "description": "",
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
-    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
     ],
-    "version": "0.0.1"
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
 }
